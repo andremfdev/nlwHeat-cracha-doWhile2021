@@ -1,2 +1,5 @@
 # nlwHeat-cracha-doWhile2021
- Criando o crachá para o evento do DoWhile 2021 da Rocketseat
+
+![Design Crachá Preview](./images/stage.jpg)
+
+Criando o crachá para o evento do DoWhile 2021 da Rocketseat
