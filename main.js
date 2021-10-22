@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
     github: 'andremksdev',
-    youtube: 'andremksdev',
+    linkedin: 'andremksdev',
     facebook: 'andremksdev',
     instagram: 'andremks.dev',
     twitter: 'andremksdev'
