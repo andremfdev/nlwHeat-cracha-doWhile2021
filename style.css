@@ -96,12 +96,14 @@ ul {
   justify-content: center;
 }
 
-.img-buttom {
-  position: relative;
-  border-radius: 0.25rem;
-  width: 50px;
-  top: 0;
-  transition: all ease 0.3s;
+li a:hover {
+  width: 45px;
+  height: 45px;
+  border: 1px;
+  border-style: solid;
+  border-color: #13111b;
+  transition: 0.2s;
+  border-bottom-color: #f35653;
+  border-radius: 15%;
 }
-
 
