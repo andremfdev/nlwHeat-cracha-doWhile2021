@@ -104,20 +104,12 @@ ul {
   justify-content: center;
 }
 
-.linkedin img {
-  border-radius: 4px;
-}
-
-.instagram img {
-  border-radius: 4px;
-}
-
-.facebook img {
-  border-radius: 4px;
-}
-
-.twitter img {
-  border-radius: 4px;
+.img-buttom {
+  position: relative;
+  border-radius: 0.25rem;
+  width: 50px;
+  top: 0;
+  transition: all ease 0.3s;
 }
 
 
