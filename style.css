@@ -25,9 +25,10 @@ body {
 }
 
 main {
-  background: url(images/background.svg);
-  width: 375px;
-  height: 812px;
+  background: url(images/background.svg) no-repeat center/cover;
+  width: 100vw;
+  min-height: 812px;
+  height: 100vh;
 }
 
 .container {
@@ -35,6 +36,18 @@ main {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+
+.spinning {
+  animation: loading 10s linear infinite;
+  animation-duration: 10s;
+  animation-timing-function: linear;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+  animation-fill-mode: none;
+  animation-play-state: running;
+  animation-name: loading;
 }
 
 .avatar {
@@ -90,3 +103,21 @@ ul {
   gap: 0.5rem;
   justify-content: center;
 }
+
+.linkedin img {
+  border-radius: 4px;
+}
+
+.instagram img {
+  border-radius: 4px;
+}
+
+.facebook img {
+  border-radius: 4px;
+}
+
+.twitter img {
+  border-radius: 4px;
+}
+
+
