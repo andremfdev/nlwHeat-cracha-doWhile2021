@@ -91,3 +91,11 @@ ul {
   gap: 0.5rem;
   justify-content: center;
 }
+
+img {
+  transition: all 0.3s;
+}
+
+img:hover {
+  background-color: aqua;
+}
