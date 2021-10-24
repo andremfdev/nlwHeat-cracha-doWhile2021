@@ -16,6 +16,7 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> •
+ <a href="#layout">Layout</a> •
  <a href="#deploy">Deploy</a> •
  <a href="#challenges">Challenges</a> •
  <a href="#technologies">Technologies</a> •
@@ -26,7 +27,7 @@
 <h3 align="center"><strong>Desktop model</strong></h3>
 <p align="center">
   <img 
-    src="./gifs/readme-desk.gif"
+    src="./readme-assets/readme-desk.gif"
     width="700px" 
     style="display: inline; border-radius: 15px; border: "
   />
@@ -35,7 +36,7 @@
 
 <p align="center">
   <img 
-    src="./gifs/readme-mobile.gif"
+    src="./readme-assets/readme-mobile.gif"
     width="300px" height="450"
     style="display: inline; border-radius: 15px; border: "
   />
@@ -45,9 +46,23 @@
 <h3 id="sobre"><strong>📝 Sobre</strong></h3>
 
 <hr>
-<p>Desenvolver um crachá (ou cartão) virtual para o evento <a href="https://dowhile.io/inscricao">DoWhile 2021</a>, como parte do aprendizado do conteúdo da imersão <strong>nlw Heat - Trilha Origin</strong> da <strong><a href="https://www.rocketseat.com.br/">Rocketseat 🚀</a></strong> que ocorreu entre os dias 17/10/21 à 22/10/2021.</p>
+<p>Desenvolver um crachá (ou cartão) virtual para o evento <a href="https://dowhile.io/inscricao"><strong>DoWhile 2021</strong></a>, como parte do aprendizado do conteúdo da imersão <strong>nlw Heat - Trilha Origin</strong> da <a href="https://www.rocketseat.com.br/"><strong>Rocketseat 🚀</strong></a> que ocorreu entre os dias 17/10/21 à 22/10/2021.</p>
 
 <br>
+
+<h3 id="layout"><strong>📐 Layout</strong></h3>
+
+<hr>
+Project Layout in <a href="https://www.figma.com/file/9Z2vxc8VTRuZpYjFalCMAl/Badge-Do-While2021-(Copy)?node-id=0%3A1"><strong>FIGMA</strong></a>
+<br>
+<br>
+<br>
+<p align="center">
+  <img 
+    src="./readme-assets/layout-figma.JPG"
+    width="700px" 
+    style="display: inline; border-radius: 15px; border: "
+  />
 
 <h3 id="deploy"><strong>🌐 Deploy</strong></h3>
 
@@ -85,5 +100,4 @@ As tecnologias usadas para esse projeto foram:
 
 Made by andremksdev 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/arthurpc03/)
-[![YouTube Badge](https://img.shields.io/badge/-ARTHUR_PC-EF1A19?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/arthurpc)](https://www.youtube.com/arthurpc)
+[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
