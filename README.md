@@ -31,12 +31,17 @@
 
 <br>
 
-### 🌐 Deploy <hr>
+### 🌐 Deploy
+
+<hr>
 
 [Github Pages](https://andremksdev.github.io/nlwHeat-cracha-doWhile2021/)
 
 <br>
-<h3><strong>🎯 Challenges</strong></h3><hr>
+
+### 🌐 Challenges
+
+<hr>
 
 - [x] Desktop version
 - [x] Apply animations
