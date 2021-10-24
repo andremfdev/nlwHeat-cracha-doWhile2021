@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://i.imgur.com/ubCCETD.png" alt="NLW Logo"><img src="./images/logo-do-while.svg">
+<img src="https://i.imgur.com/ubCCETD.png" alt="NLW Logo"><br>
+<img src="./images/logo-do-while.svg">
 </div>
 <hr>
 
@@ -24,7 +25,7 @@
 <br>
 <br>
 
-### Sobre
+<h3 id="sobre"><strong>📝 Sobre</strong></h3>
 
 <hr>
 <p>Desenvolver um crachá (ou cartão) virtual para o evento <a href="https://dowhile.io/inscricao">DoWhile 2021</a>, como parte do aprendizado do conteúdo da imersão <strong>nlw Heat - Trilha Origin</strong> da <strong><a href="https://www.rocketseat.com.br/">Rocketseat 🚀</a></strong> que ocorreu entre os dias 17/10/21 à 22/10/2021.</p>
