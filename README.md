@@ -23,6 +23,23 @@
 </p>
 
 <br>
+<h3 align="center"><strong>Desktop model</strong></h3>
+<p align="center">
+  <img 
+    src="./gifs/readme-desk.gif"
+    width="700px" 
+    style="display: inline; border-radius: 15px; border: "
+  />
+  <h3 align="center"><strong>Mobile model</strong></h3>
+</p>
+
+<p align="center">
+  <img 
+    src="./gifs/readme-mobile.gif"
+    width="300px" height="450"
+    style="display: inline; border-radius: 15px; border: "
+  />
+</p>
 <br>
 
 <h3 id="sobre"><strong>📝 Sobre</strong></h3>
@@ -32,7 +49,7 @@
 
 <br>
 
-### Deploy
+<h3 id="deploy"><strong>🌐 Deploy</strong></h3>
 
 <hr>
 
@@ -40,7 +57,7 @@
 
 <br>
 
-### Challenges
+<h3 id="challenges"><strong>🎯 Challenges</strong></h3>
 
 <hr>
 
@@ -49,7 +66,7 @@
 
 <br>
 
-### Technologies
+<h3 id="technologies"><strong>⚙️ Technologies</strong></h3>
 
 <hr>
 As tecnologias usadas para esse projeto foram:
@@ -60,7 +77,7 @@ As tecnologias usadas para esse projeto foram:
 
 <br>
 
-### Autor
+<h3 id="autor"><strong>👨‍💻 Autor</strong></h3>
 
 <hr>
 
