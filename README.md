@@ -100,4 +100,4 @@ As tecnologias usadas para esse projeto foram:
 
 Made by andremksdev 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](target="_blank"https://www.linkedin.com/in/andremksdev/)
