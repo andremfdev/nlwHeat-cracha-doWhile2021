@@ -14,7 +14,7 @@
 
 html,
 body {
-   height: 100%;
+  height: 100%;
   --gray-colors-100: hsla(240, 9%, 89%, 1);
   --gray-colors-200: hsl(240, 7%, 78%);
   --back: #121214;
@@ -29,7 +29,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-
 
 main {
   background: url(images/back-desk-card.png);
@@ -59,23 +58,22 @@ main {
 .faixa {
   position: absolute;
   width: 64px;
-  height: 200px;
-  background: linear-gradient(161.24deg, #FF008E -15.25%, #FFCD1E 111.89%);
-  margin-top: -170px;
+  height: 400px;
+  background: linear-gradient(161.24deg, #ff008e -15.25%, #ffcd1e 111.89%);
+  margin-top: -370px;
   z-index: 2;
   border-radius: 2px;
 }
 
 .encaixe {
-position: absolute;
-width: 80px;
-height: 10px;
-background: #121214;
-z-index: 1;
-margin-top: 26px;
-border-radius: 4px;
+  position: absolute;
+  width: 80px;
+  height: 10px;
+  background: #121214;
+  z-index: 1;
+  margin-top: 26px;
+  border-radius: 4px;
 }
-
 
 .circle {
   animation: circle-rotating 10s linear infinite;
@@ -134,7 +132,6 @@ ul {
   display: flex;
   gap: 0.5rem;
   justify-content: center;
-  
 }
 
 /* STYLE HOVER */
@@ -142,7 +139,6 @@ ul {
 .img-buttom {
   transition: all 0.3s ease-out;
   border-radius: 5px;
- 
 }
 
 .img-buttom:hover {
@@ -156,41 +152,45 @@ a:hover {
 
 /* MEDIA QUERIES */
 
-@media (max-width: 800px){
+@media (max-width: 991px) {
   main {
     width: 375px;
-    height: 780px;
+    height: 690px;
     background: url(./images/back-mobile.png);
-    background-size: 375px 780px;
+    background-size: 375px 690px;
   }
 
- .container {
-   margin-top: 6rem;
- }
+  .container {
+    margin-top: 6rem;
+  }
 
- .avatar img {
-   margin-bottom: 24px;
- }
+  .avatar img {
+    margin-bottom: 15px;
+    margin-top: -26px;
+  }
 
- .user-login {
-   margin-bottom: 32px;
- }
+  .avatar img {
+    margin-bottom: 24px;
+  }
 
- p {
-   margin-bottom: 64px;
- }
+  .user-login {
+    margin-bottom: 32px;
+  }
 
- .faixa {
-   display: none;
- }
+  p {
+    margin-bottom: 16px;
+  }
 
- .encaixe {
-   display: none;
- }
+  .faixa {
+    display: none;
+  }
+
+  .encaixe {
+    display: none;
+  }
 }
 
 /* ANIMATION */
-
 
 @keyframes circle-rotating {
   0% {
