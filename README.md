@@ -31,7 +31,7 @@
 
 <br>
 
-### 🌐 Deploy
+### Deploy
 
 <hr>
 
@@ -39,7 +39,7 @@
 
 <br>
 
-### 🌐 Challenges
+### Challenges
 
 <hr>
 
@@ -47,7 +47,10 @@
 - [x] Apply animations
 
 <br>
-<h3><strong>⚙️ Technologies</strong></h3><hr>
+
+### Technologies
+
+<hr>
 As tecnologias usadas para esse projeto foram:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -55,7 +58,10 @@ As tecnologias usadas para esse projeto foram:
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 <br>
-<h3><strong>👨‍💻 Autor</strong></h3><hr>
+
+### Autor
+
+<hr>
 
 <img alt="ARTHUR PC" title="ARTHUR PC" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" />
 
