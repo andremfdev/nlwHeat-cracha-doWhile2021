@@ -96,8 +96,10 @@ As tecnologias usadas para esse projeto foram:
 
 <hr>
 
-<img alt="ARTHUR PC" title="ARTHUR PC" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" />
+<img alt="andremksdev" title="andremksdev" src="https://avatars.githubusercontent.com/u/82080573?v=4" height="100" width="100" />
 
 Made by andremksdev 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-andremksdev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andremksdev/)](https://www.linkedin.com/in/andremksdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremksdev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/andremksdev/)](https://www.twitter.com/andremksdev/)
+[![Twitter Badge](https://img.shields.io/badge/andremks.dev-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/andremks.dev/)](https://www.instagram.com/andremks.dev/)
